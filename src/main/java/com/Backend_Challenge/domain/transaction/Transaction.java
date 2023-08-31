@@ -1,6 +1,6 @@
-package com.PicPayBackend_Challenge.domain.transaction;
+package com.Backend_Challenge.domain.transaction;
 
-import com.PicPayBackend_Challenge.domain.user.User;
+import com.Backend_Challenge.domain.user.User;
 import jakarta.persistence.*;
 import lombok.*;
 

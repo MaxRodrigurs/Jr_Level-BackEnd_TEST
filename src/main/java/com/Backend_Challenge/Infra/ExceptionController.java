@@ -1,6 +1,6 @@
-package com.PicPayBackend_Challenge.Infra;
+package com.Backend_Challenge.Infra;
 
-import com.PicPayBackend_Challenge.dtos.ExceptionDTO;
+import com.Backend_Challenge.dtos.ExceptionDTO;
 import jakarta.persistence.EntityNotFoundException;
 import org.springframework.dao.DataIntegrityViolationException;
 import org.springframework.http.ResponseEntity;

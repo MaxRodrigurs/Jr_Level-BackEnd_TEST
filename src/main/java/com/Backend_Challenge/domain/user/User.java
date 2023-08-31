@@ -1,6 +1,6 @@
-package com.PicPayBackend_Challenge.domain.user;
+package com.Backend_Challenge.domain.user;
 
-import com.PicPayBackend_Challenge.dtos.UserDTO;
+import com.Backend_Challenge.dtos.UserDTO;
 import jakarta.persistence.*;
 import lombok.*;
 

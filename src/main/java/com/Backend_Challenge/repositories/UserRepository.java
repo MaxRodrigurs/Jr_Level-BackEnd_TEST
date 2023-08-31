@@ -1,6 +1,6 @@
-package com.PicPayBackend_Challenge.repositories;
+package com.Backend_Challenge.repositories;
 
-import com.PicPayBackend_Challenge.domain.user.User;
+import com.Backend_Challenge.domain.user.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.Optional;

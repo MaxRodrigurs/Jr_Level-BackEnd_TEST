@@ -1,11 +1,10 @@
-package com.PicPayBackend_Challenge.controllers;
+package com.Backend_Challenge.controllers;
 
-import com.PicPayBackend_Challenge.domain.user.User;
-import com.PicPayBackend_Challenge.dtos.UserDTO;
-import com.PicPayBackend_Challenge.services.UserService;
+import com.Backend_Challenge.domain.user.User;
+import com.Backend_Challenge.dtos.UserDTO;
+import com.Backend_Challenge.services.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
-import org.springframework.http.HttpStatusCode;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 

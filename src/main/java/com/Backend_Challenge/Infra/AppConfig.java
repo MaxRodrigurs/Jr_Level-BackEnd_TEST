@@ -1,4 +1,4 @@
-package com.PicPayBackend_Challenge.Infra;
+package com.Backend_Challenge.Infra;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

@@ -1,9 +1,9 @@
-package com.PicPayBackend_Challenge.services;
+package com.Backend_Challenge.services;
 
-import com.PicPayBackend_Challenge.domain.transaction.Transaction;
-import com.PicPayBackend_Challenge.domain.user.User;
-import com.PicPayBackend_Challenge.dtos.TransactionDTO;
-import com.PicPayBackend_Challenge.repositories.TransactionRepository;
+import com.Backend_Challenge.domain.transaction.Transaction;
+import com.Backend_Challenge.domain.user.User;
+import com.Backend_Challenge.dtos.TransactionDTO;
+import com.Backend_Challenge.repositories.TransactionRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

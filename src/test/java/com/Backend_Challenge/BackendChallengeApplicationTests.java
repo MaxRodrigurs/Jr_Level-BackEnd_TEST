@@ -1,10 +1,10 @@
-package com.PicPayBackend_Challenge;
+package com.Backend_Challenge;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class PicPayBackendChallengeApplicationTests {
+class BackendChallengeApplicationTests {
 
 	@Test
 	void contextLoads() {

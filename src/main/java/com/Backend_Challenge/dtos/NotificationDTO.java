@@ -1,4 +1,4 @@
-package com.PicPayBackend_Challenge.dtos;
+package com.Backend_Challenge.dtos;
 
 public record NotificationDTO(String email, String message) {
 }

@@ -1,13 +1,13 @@
-package com.PicPayBackend_Challenge;
+package com.Backend_Challenge;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class PicPayBackendChallengeApplication {
+public class BackendChallengeApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(PicPayBackendChallengeApplication.class, args);
+		SpringApplication.run(BackendChallengeApplication.class, args);
 	}
 
 }

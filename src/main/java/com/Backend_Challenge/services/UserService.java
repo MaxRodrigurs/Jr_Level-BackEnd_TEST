@@ -1,9 +1,9 @@
-package com.PicPayBackend_Challenge.services;
+package com.Backend_Challenge.services;
 
-import com.PicPayBackend_Challenge.domain.user.User;
-import com.PicPayBackend_Challenge.domain.user.UserType;
-import com.PicPayBackend_Challenge.dtos.UserDTO;
-import com.PicPayBackend_Challenge.repositories.UserRepository;
+import com.Backend_Challenge.domain.user.User;
+import com.Backend_Challenge.domain.user.UserType;
+import com.Backend_Challenge.dtos.UserDTO;
+import com.Backend_Challenge.repositories.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
